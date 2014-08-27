@@ -1,0 +1,13 @@
+
+
+[[local|localrc]]
+
+HOST_IP=10.3.30.165
+
+ADMIN_PASSWORD=nexenta
+DATABASE_PASSWORD=nexenta
+RABBIT_PASSWORD=nexenta
+SERVICE_PASSWORD=nexenta
+SERVICE_TOKEN=nexenta
+
+SWIFT_HASH=66a3d6b56c1f479c8b4e70ab5c2000f5
